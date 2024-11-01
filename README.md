@@ -15,7 +15,7 @@ Var
 
 Inicio
 
-    escreval("Deseja comprar um lanche? s/n")
+    escreval("Deseja comprar um lanche? sim/não")
     leia(oplanche)
 
     se (oplanche="s") entao
@@ -53,7 +53,7 @@ Inicio
     escreval("Valor total do lanche R$ ",VL:2:2," reais")
 
 
-    escreval ("deseja escolher uma bebida? s/n")
+    escreval ("deseja escolher uma bebida? sim/não")
     leia (opbebida)
     se (opbebida="s") entao
 
