@@ -1,7 +1,7 @@
 # alg_lanchonete
 algoritmo lanchonete
 Algoritmo "lanchonete"
-
+alterando branch
 Var
 
   ql,qb,b:inteiro // ql=quantidade de lanche, qb=quantidade de bebidas
